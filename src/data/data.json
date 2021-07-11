@@ -1,0 +1,24 @@
+{
+    "Header": {
+
+        "title": "Seamless Capital",
+        "paragraph": "Algorithmic trading solutions powered by Machine-Learning"
+
+    },
+    "About": {
+        "paragraph": "Seamless is a fast growing team of world-class poker players, traders, software developers, scientists and Kagglers focused on algorithmic trading using cutting edge machine learning techniques. We're hiring aggressively and expect to double in size in the next 12 months.",
+        "Why": [
+            "Experienced team",
+            "Performant",
+            "Innovative",
+            "Cost effective"
+        ],
+        "Why2": [
+            "Growing company",
+            "5 million dollars in poker winnings",
+            "Best cosmologist of his generation",
+            "Top European Kagglers"
+        ]
+    }
+    
+}

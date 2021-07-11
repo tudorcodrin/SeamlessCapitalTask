@@ -1,0 +1,1 @@
+The code is part of a job application process and contains a landing page and a chatbot.

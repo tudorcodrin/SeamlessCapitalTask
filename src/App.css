@@ -1,0 +1,52 @@
+@media (max-width: 767.98px) {
+  .bGHoUA {
+    height: 90% !important;
+  }
+  .cVGdKt {
+    transition: none !important;
+  }
+
+  .intro h1 {
+    font-size: 65px;
+  }
+
+  .intro p {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .intro h1 {
+    font-size: 55px;
+  }
+
+  .intro p {
+    font-size: 15px;
+  }
+  #menu a.navbar-brand {
+    font-size: 20px;
+  }
+  .bGHoUA {
+    height: 88% !important;
+  }
+}
+
+html, body {
+  overflow-x: hidden;
+}
+body {
+  position: relative
+}
+
+.rsc-header {
+  background-color: #243796 !important;
+}
+
+.rsc-header-title {
+  color:white !important;
+}
+
+.rsc-ts-bubble {
+  color:white !important;
+
+}
